@@ -1,0 +1,75 @@
+:root {
+  --bg: #4f4d59;
+  /* --bg: #6a5acd; */
+  --darkbg: #413f49;
+  --project: #696778;
+  --oj: #4169e1;
+  --lightoj: #4169e1;
+  --darktext: #bfbfbf;
+  --white: #fafafa;
+  --footer: #333334;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto;
+  background: var(--footer);
+}
+
+.App {
+  background: var(--bg);
+  color: var(--white);
+}
+
+.loading {
+  height: calc(100vh - 79px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  background: var(--footer);
+}
+
+.footer p {
+  text-align: center;
+}
+
+p {
+  font-size: 1.4rem;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+/* .circle {
+  position: relative;
+  height: 6rem;
+  width: 6rem;
+  background-color: #4169e1;
+  border-radius: 50%;
+  display: inline-block;
+}
+.icon {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+} */
+
+.circle {
+  height: 6rem;
+  width: 6rem;
+  background-color: #4169e1;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon {
+}
