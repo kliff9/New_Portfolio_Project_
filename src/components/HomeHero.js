@@ -6,7 +6,7 @@ function HomeHero() {
     <div className="home-hero">
       <div className="home-hero-text-container">
         <div className="home-hero-text">
-          <p>Howdy, my name is</p>
+          <p>Hey, my name is</p>
           <p>Cliffton Thelusca</p>
           <p>The man who get things done</p>
           <div className="home-hero-icon-container">
@@ -16,7 +16,7 @@ function HomeHero() {
             <a
               className="home-hero-icon"
               rel="noreferrer"
-              href="https://github.com/cutieboy"
+              href="https://github.com/kliff9"
               target="_blank"
             >
               <svg
@@ -50,7 +50,7 @@ function HomeHero() {
             <a
               className="home-hero-icon"
               rel="noreferrer"
-              href="https://linkedin.com/in/zacharie-jones"
+              href="https://www.linkedin.com/in/cliffton-thelusca-581aa8225/"
               target="_blank"
             >
               <svg
@@ -85,7 +85,7 @@ function HomeHero() {
         </div>
       </div>
       <div className="home-hero-svg">
-        <img src="./kliff_city.jpg" alt="about" />
+        <img src="./ninjalaptop.svg" alt="about" />
       </div>
     </div>
   );

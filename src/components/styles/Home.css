@@ -251,22 +251,22 @@
 }
 
 .home-video {
-  width: 533.33px !important;
-  height: 300px !important;
+  width: 633.33px !important;
+  height: 400px !important;
   align-self: flex-end;
   border-radius: 5px !important;
 }
 
 .home-video video {
-  width: 533.33px !important;
-  height: 300px !important;
+  width: 633.33px !important;
+  height: 400px !important;
 }
 
 .home-project-text-container {
   display: flex;
   align-items: center;
   background: var(--project);
-  height: 300px;
+  height: 380px;
   width: 60%;
   margin-top: 20px;
   border-radius: 0 10px 10px 0;
@@ -306,8 +306,8 @@
 
 .home-project-link a {
   width: 80px;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding-top: 13px;
+  padding-bottom: 13px;
   text-decoration: none;
 }
 
