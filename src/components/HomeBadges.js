@@ -52,7 +52,7 @@ function HomeBadges() {
           <h3>Design Focused</h3>
           <p>
             Developing in a way that is attractive and convenient that enhances
-            a customer's experience
+            a user's experience
           </p>
         </div>
       </div>
