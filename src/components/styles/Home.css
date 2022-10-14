@@ -1,7 +1,9 @@
 .home-hero {
   margin-left: 15%;
   margin-right: 15%;
-  height: calc(80vh - 50px);
+  height: 40rem;
+  /* height: calc(60vh - 100px); */
+
   display: flex;
   justify-content: center;
 }
@@ -24,17 +26,17 @@
 
 .home-hero-text p:nth-child(1) {
   margin-top: 0;
-  font-size: 24px;
+  font-size: 2rem;
 }
 
 .home-hero-text p:nth-child(2) {
   color: var(--oj);
-  font-size: 60px;
+  font-size: 70px;
   font-weight: bold;
 }
 
 .home-hero-text p:nth-child(3) {
-  font-size: 32px;
+  font-size: 2.5rem;
 }
 
 .home-hero-icon-container {
@@ -51,9 +53,9 @@
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  font-size: 18px;
-  width: 150px;
-  height: 40px;
+  font-size: 24px;
+  width: 165px;
+  height: 55px;
   border-radius: 10px;
   background: linear-gradient(180deg, #4169e1 0%, #4169e1 100%);
   transition: transform 0.2s ease;
@@ -236,11 +238,7 @@
 .home-project {
   padding-top: 40px;
   padding-bottom: 40px;
-<<<<<<< HEAD
-  width: 115%;
-=======
   width: 100%;
->>>>>>> 9e5932f (first commit)
   display: flex;
   flex-direction: row;
   align-items: stretch;
@@ -255,36 +253,22 @@
 }
 
 .home-video {
-<<<<<<< HEAD
   width: 633.33px !important;
   height: 400px !important;
-=======
-  width: 533.33px !important;
-  height: 300px !important;
->>>>>>> 9e5932f (first commit)
   align-self: flex-end;
   border-radius: 5px !important;
 }
 
 .home-video video {
-<<<<<<< HEAD
   width: 633.33px !important;
   height: 400px !important;
-=======
-  width: 533.33px !important;
-  height: 300px !important;
->>>>>>> 9e5932f (first commit)
 }
 
 .home-project-text-container {
   display: flex;
   align-items: center;
   background: var(--project);
-<<<<<<< HEAD
   height: 380px;
-=======
-  height: 300px;
->>>>>>> 9e5932f (first commit)
   width: 60%;
   margin-top: 20px;
   border-radius: 0 10px 10px 0;
@@ -324,13 +308,8 @@
 
 .home-project-link a {
   width: 80px;
-<<<<<<< HEAD
   padding-top: 13px;
   padding-bottom: 13px;
-=======
-  padding-top: 8px;
-  padding-bottom: 8px;
->>>>>>> 9e5932f (first commit)
   text-decoration: none;
 }
 
@@ -393,10 +372,7 @@
   justify-content: center;
   align-items: center;
   flex: 1;
-<<<<<<< HEAD
   margin-right: 1rem;
-=======
->>>>>>> 9e5932f (first commit)
 }
 
 .home-contact {
@@ -478,7 +454,6 @@ textarea:focus {
   transition: all 0.5s ease;
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 1324px) and (min-width: 1024px) {
   .home-video video {
     width: 533.33px !important;
@@ -502,24 +477,22 @@ textarea:focus {
     width: 115%;
     height: 115%;
   }
+  .home-project {
+    width: 115%;
+  }
 }
 
-=======
->>>>>>> 9e5932f (first commit)
 @media screen and (max-width: 1024px) {
   .home-hero {
     height: calc(95vh - 50px);
     margin-left: 5%;
     margin-right: 5%;
   }
-<<<<<<< HEAD
   .home-tech {
     height: auto;
     width: auto;
     align-self: center;
   }
-=======
->>>>>>> 9e5932f (first commit)
 
   .home-hero-svg {
     display: none;
@@ -573,10 +546,7 @@ textarea:focus {
 
   .home-project {
     flex-direction: column;
-<<<<<<< HEAD
     width: 100%;
-=======
->>>>>>> 9e5932f (first commit)
   }
 
   .home-video {

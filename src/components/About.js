@@ -27,7 +27,7 @@ function About() {
       className="about"
     >
       <div className="about-container">
-        <img src="./about-image.png" alt="about"></img>
+        <img src="./cliffSmilecircle.png" alt="about"></img>
         <h2>Hi, I'm Cliffton Thelusca</h2>
         <p>
           I'm a Software Developer from San Jose, CA. I love building modern web

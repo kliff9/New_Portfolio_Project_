@@ -6,11 +6,7 @@ function HomeHero() {
     <div className="home-hero">
       <div className="home-hero-text-container">
         <div className="home-hero-text">
-<<<<<<< HEAD
           <p>Hey, my name is</p>
-=======
-          <p>Howdy, my name is</p>
->>>>>>> 9e5932f (first commit)
           <p>Cliffton Thelusca</p>
           <p>The man who get things done</p>
           <div className="home-hero-icon-container">
@@ -20,17 +16,13 @@ function HomeHero() {
             <a
               className="home-hero-icon"
               rel="noreferrer"
-<<<<<<< HEAD
               href="https://github.com/kliff9"
-=======
-              href="https://github.com/cutieboy"
->>>>>>> 9e5932f (first commit)
               target="_blank"
             >
               <svg
-                width="33"
-                height="33"
-                viewBox="0 0 33 33"
+                width="50"
+                height="50"
+                viewBox="0 0 35 35"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
@@ -50,7 +42,7 @@ function HomeHero() {
                     gradientUnits="userSpaceOnUse"
                   >
                     <stop stopColor="#4169e1" />
-                    <stop offset="1" stopColor="#4169e1" />
+                    <stop offset="1" stopColor="#577ae4" />
                   </linearGradient>
                 </defs>
               </svg>
@@ -58,17 +50,13 @@ function HomeHero() {
             <a
               className="home-hero-icon"
               rel="noreferrer"
-<<<<<<< HEAD
               href="https://www.linkedin.com/in/cliffton-thelusca-581aa8225/"
-=======
-              href="https://linkedin.com/in/zacharie-jones"
->>>>>>> 9e5932f (first commit)
               target="_blank"
             >
               <svg
-                width="33"
-                height="33"
-                viewBox="0 0 33 33"
+                width="50"
+                height="50"
+                viewBox="0 0 35 35"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
@@ -97,11 +85,7 @@ function HomeHero() {
         </div>
       </div>
       <div className="home-hero-svg">
-<<<<<<< HEAD
         <img src="./ninjalaptop.svg" alt="about" />
-=======
-        <img src="./kliff_city.jpg" alt="about" />
->>>>>>> 9e5932f (first commit)
       </div>
     </div>
   );
