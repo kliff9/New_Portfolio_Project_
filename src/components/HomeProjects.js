@@ -5,12 +5,7 @@ import ReactPlayer from "react-player";
 function HomeProjects() {
   const [projects, setProjects] = useState([]);
 
-  // useEffect(() => {
-  //     const handleProjectData = async() => {
-  //         QueryProjects(setProjects)
-  //     }
-  //     handleProjectData()
-  // }, [])
+
 
   return (
     <>

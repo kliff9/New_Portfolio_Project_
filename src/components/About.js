@@ -27,18 +27,14 @@ function About() {
       className="about"
     >
       <div className="about-container">
-        <img src="./cliffSmilecircle.png" alt="about"></img>
+        <img src="./kliff_sit.jpg" alt="about"></img>
         <h2>Hi, I'm Cliffton Thelusca</h2>
         <p>
-          I'm a Software Developer from San Jose, CA. I love building modern web
-          applications that make people's lives easier.
+          I'm a Software Developer who loves building modern web
+          applications and wants to make a impact.
         </p>
-        <p>
-          I'm passionate about solving problems and improving the lives of
-          others through software engineering. I'm currently looking for roles
-          as a Front-End or Full-Stack Web Developer, and I'm always interested
-          in talking to other developers.
-        </p>
+        {/* <p>
+        </p> */}
         <Link to="/contact">Contact</Link>
       </div>
     </motion.section>

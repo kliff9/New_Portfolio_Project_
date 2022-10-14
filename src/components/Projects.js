@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import ReactPlayer from "react-player";
 
 import Project from "./Project";
-import { QueryProjects, urlFor } from "../contexts/SanityQueries";
 import "./styles/Projects.css";
 import data from "../contexts/data";
 
