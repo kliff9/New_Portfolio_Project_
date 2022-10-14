@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import { QueryProjects, urlFor } from "../contexts/SanityQueries";
 import ReactPlayer from "react-player";
 
 function HomeProjects() {

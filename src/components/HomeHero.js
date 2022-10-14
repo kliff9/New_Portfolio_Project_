@@ -20,9 +20,9 @@ function HomeHero() {
               target="_blank"
             >
               <svg
-                width="33"
-                height="33"
-                viewBox="0 0 33 33"
+                width="50"
+                height="50"
+                viewBox="0 0 35 35"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
@@ -42,7 +42,7 @@ function HomeHero() {
                     gradientUnits="userSpaceOnUse"
                   >
                     <stop stopColor="#4169e1" />
-                    <stop offset="1" stopColor="#4169e1" />
+                    <stop offset="1" stopColor="#577ae4" />
                   </linearGradient>
                 </defs>
               </svg>
@@ -54,9 +54,9 @@ function HomeHero() {
               target="_blank"
             >
               <svg
-                width="33"
-                height="33"
-                viewBox="0 0 33 33"
+                width="50"
+                height="50"
+                viewBox="0 0 35 35"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
