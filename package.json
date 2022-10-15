@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "portfolio-project",
-=======
-  "name": "zachariejonesportfolioclient",
->>>>>>> 9e5932f (first commit)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
