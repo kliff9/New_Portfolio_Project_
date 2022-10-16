@@ -12,14 +12,14 @@ const data = [
   },
   {
     id: 2,
-    name: "RP Movies",
+    name: "Monitor🏝️Paradise",
     description: [
-      "A application that allows user to build a deck of cards",
+      "User Are able to make an account and shop through a list of monitors. Once they find the desired items then they would be able to purchase them and have them shipped.",
       "Technologies: React.js. Node.js, MongoDB",
     ],
     link: "link",
     repo: "linkrepo",
-    video: "RPmovies.mp4",
+    video: "MonitorParadise.mp4",
   },
   {
     id: 3,
