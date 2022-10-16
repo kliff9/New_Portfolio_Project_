@@ -1,25 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Portfolio Website
 
-# Zacharie Jones Portfolio
+## Purpose:
 
-This is my portfolio website built using React, Framer Motion, and Sanity.io. I wanted an easy-to-update website that didn't require a full-on CMS, so I chose Sanity.io as a back end.
+User Are able to make an account and shop through a list of products. Once they find the desired items then they would be able to purchase them and have them shipped.
 
-## Technologies Used
+## Technologies Used:
 
-- React
-- Framer Motion
-- EmailJS
-- Sanity.io
+◼ FarmerMotion -
 
-git add README.md
+◼ BootStrap -
 
-echo "# New_Project_Portfolio" >> README.md
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/kliff9/New_Project_Portfolio.git
-git push -u origin main
-…or push an existing repository from the command line
-git remote add origin https://github.com/kliff9/New_Project_Portfolio.git
-git branch -M main
-git push -u origin main
+◼ React. js - A JavaScript library for building user interfaces
+
+## Website:
+
+TAB
+
+## Preview
+
+TBA
