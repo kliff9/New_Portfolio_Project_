@@ -17,19 +17,30 @@ const data = [
       "User Are able to make an account and shop through a list of monitors. Once they find the desired items then they would be able to purchase them and have them shipped.",
       "Technologies: React.js. Node.js, MongoDB",
     ],
-    link: "monitorparadise.vercel.app",
+    link: "https://monitorparadise.vercel.app",
     repo: "https://github.com/kliff9/Monitor-Paradise",
     video: "MonitorParadise.mp4",
   },
   {
     id: 3,
-    name: "RP Movies",
+    name: "Pokemon Deck Builder",
     description: [
-      "A application that allows user to build a deck of cards",
+      "User will be able to build a deck from choosing from a selction of custom-made pokemon cards. There is no limit to how many decks you may create.",
       "Technologies: React.js. Node.js, MongoDB",
     ],
     link: "https://pkmntcg0.herokuapp.com/",
     repo: "https://github.com/kliff9/pokemontcg_build_a_deck",
+    video: "pkmncard.mp4",
+  },
+  {
+    id: 4,
+    name: "DopeChat",
+    description: [
+      "A Group video calling application using the Agora Web SDK with a Django backend.",
+      "Technologies: Django, Agora.io SDK, Javascript, Bootstrap",
+    ],
+    link: "https://dopechat-production.up.railway.app/",
+    repo: "https://github.com/kliff9/DopeChat",
     video: "pkmncard.mp4",
   },
 ];

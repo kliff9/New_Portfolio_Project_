@@ -36,7 +36,7 @@ function Projects() {
         <h2 className="section-header">Projects</h2>
       </div>
       <div className="projects-container">
-        <div className="project">
+        {/* <div className="project">
           <ReactPlayer
             controls="true"
             playIcon
@@ -76,7 +76,7 @@ function Projects() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         {projects &&
           projects.map((project) => {
             return (
