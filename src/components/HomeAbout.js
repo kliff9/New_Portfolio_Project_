@@ -7,8 +7,8 @@ function HomeAbout() {
         <span className="section-span"></span>
         <h2 className="section-header">About Me</h2>
         <p>
-          Hi, my name's Cliffton Thelusca, A Software Developer who loves
-          building modern web applications and wants to make a impact.
+          Hi, my name's Cliffton Thelusca, a Software Developer who loves building modern web
+          applications and wants to make a impact.
         </p>
         <br />
         {/* <p>

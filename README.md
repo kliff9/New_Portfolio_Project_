@@ -1,21 +1,25 @@
-# Project-Portfolio
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Purpose:
+# Zacharie Jones Portfolio
 
-A compilation of work samples and professional documentation that provides proof of my accomplishments or samples of my work.
+This is my portfolio website built using React, Framer Motion, and Sanity.io. I wanted an easy-to-update website that didn't require a full-on CMS, so I chose Sanity.io as a back end.
 
-## Technologies Used:
+## Technologies Used
 
-◼ EmailJS - A service that allows us to send emails directly from the client-side JavaScript code.
+- React
+- Framer Motion
+- EmailJS
+- Sanity.io
 
-◼ Framer Motion - A production-ready motion library for React.
+git add README.md
 
-◼ React. js - A JavaScript library for building user interfaces
-
-## Website:
-
-TBA
-
-## Preview
-
-TBA
+echo "# New_Project_Portfolio" >> README.md
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kliff9/New_Project_Portfolio.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/kliff9/New_Project_Portfolio.git
+git branch -M main
+git push -u origin main
