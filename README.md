@@ -6,9 +6,9 @@ User Are able to make an account and shop through a list of products. Once they 
 
 ## Technologies Used:
 
-◼ FarmerMotion -
+◼ FarmerMotion - A powerful production-ready library from Framer that can create different animation styles in the DOM as elements.
 
-◼ BootStrap -
+◼ BootStrap - Powerful, extensible, and feature-packed frontend toolkit.
 
 ◼ React. js - A JavaScript library for building user interfaces
 

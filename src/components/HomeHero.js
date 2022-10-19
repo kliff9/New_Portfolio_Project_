@@ -10,7 +10,7 @@ function HomeHero() {
           <p>Cliffton Thelusca</p>
           <p>The man who get things done</p>
           <div className="home-hero-icon-container">
-            <a className="home-hero-view-resume" href="zach-jones-resume.pdf">
+            <a className="home-hero-view-resume" href="cliff_resumePDF.pdf">
               View Resume
             </a>
             <a

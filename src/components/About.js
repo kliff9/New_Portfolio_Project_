@@ -31,7 +31,7 @@ function About() {
         <h2>Hi, I'm Cliffton Thelusca</h2>
         <p>
           I'm a Software Developer who loves building modern web
-          applications and wants to make a impact.
+          applications and looking to make a impact.
         </p>
         {/* <p>
         </p> */}

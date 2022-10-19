@@ -24,9 +24,8 @@ function Project(props) {
       <div className="project-text-container">
         <div className="home-project-text project-text">
           <h2>{name}</h2>
-          {description.map((body) => {
-            return <p key={body._key}>{body}</p>;
-          })}
+          <p >{description[0]}</p>
+          <p >{description[1]}</p>
           <div className="project-links home-project-links">
             <div className="home-project-link home-project-link-live">
               <a className="home-project-link-a-left" href={link}>
