@@ -1,21 +1,23 @@
-# Portfolio Website
+# Project-Portfolio
 
 ## Purpose:
 
-User Are able to make an account and shop through a list of products. Once they find the desired items then they would be able to purchase them and have them shipped.
+A compilation of work samples and professional documentation that provides proof of my accomplishments or samples of my work.
 
 ## Technologies Used:
+◼ HTML - The standard markup language for creating Web pages.
 
-◼ FarmerMotion - A powerful production-ready library from Framer that can create different animation styles in the DOM as elements.
+◼ CSS - Describes how HTML elements are to be displayed on screen, paper, or in other media
 
-◼ BootStrap - Powerful, extensible, and feature-packed frontend toolkit.
+◼ Tailwind CSS - A utility-first CSS framework for rapidly building custom user interfaces.
 
 ◼ React. js - A JavaScript library for building user interfaces
 
 ## Website:
 
-TAB
+https://www.kliff-dev.xyz/
 
 ## Preview
+
 
 TBA
