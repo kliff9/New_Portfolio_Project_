@@ -31,7 +31,7 @@ const data = [
       "Technologies: React.js. Node.js, MongoDB",
       "A application that allows user to build a deck of cards"
     ],
-    link: "https://pkmntcg0.herokuapp.com/",
+    link: "https://pokemontcg-build-a-deck.vercel.app/",
     repo: "https://github.com/kliff9/pokemontcg_build_a_deck",
     video: "pkmncard.mp4",
   },
